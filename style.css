@@ -24,14 +24,25 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-.logo a {
-    display: block;
+
+/* <<< ここから変更 >>> */
+.logo-container {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #2c3e50;
 }
-.logo img {
+.logo-container img {
     height: 50px;
     width: auto;
+    margin-right: 15px;
 }
-/* <<< ここから追加/変更 >>> */
+.logo-text {
+    font-size: 1.4em;
+    font-weight: bold;
+}
+/* <<< ここまで変更 >>> */
+
 .header-right {
     display: flex;
     align-items: center;
@@ -72,7 +83,6 @@ nav a:hover {
     color: #2c3e50;
     cursor: default;
 }
-/* <<< ここまで追加/変更 >>> */
 
 /* セクション共通 */
 section {
@@ -103,42 +113,40 @@ article:last-child {
 }
 article h3 {
     margin-top: 0;
+}
+/* <<< ここから変更 >>> */
+article h3 a {
+    text-decoration: none;
     color: #3498db;
 }
-.date {
-    color: #7f8c8d;
-    font-size: 0.9em;
+article h3 a:hover {
+    text-decoration: underline;
 }
-
-/* メンバーページ用スタイル */
-.member-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 25px;
-}
-.member-card {
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    padding: 20px;
-    text-align: center;
-    background-color: #fafafa;
-}
-.member-card img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 15px;
-}
-.member-card h3 {
-    margin: 10px 0 5px 0;
-    color: #2c3e50;
-}
-.member-card .role {
+.meta-info {
     font-size: 0.9em;
     color: #7f8c8d;
     margin-bottom: 10px;
 }
+.author {
+    margin-right: 15px;
+}
+/* <<< ここまで変更 >>> */
+
+/* <<< ここから追加 >>> */
+/* 歴史セクションの画像 */
+.history-timeline {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 20px auto 0;
+}
+/* 問い合わせセクションの画像 */
+.contact-email-img {
+    max-width: 350px; /* 画像のサイズに合わせて調整 */
+    margin-top: 10px;
+}
+/* <<< ここまで追加 >>> */
 
 /* フッター */
 footer {
@@ -154,10 +162,9 @@ footer {
         flex-direction: column;
         text-align: center;
     }
-    .logo {
+    .logo-container {
         margin-bottom: 15px;
     }
-    /* <<< ここから追加/変更 >>> */
     .header-right {
         flex-direction: column;
         width: 100%;
@@ -174,5 +181,4 @@ footer {
         margin-left: 0;
         margin-top: 15px;
     }
-    /* <<< ここまで追加/変更 >>> */
 }
