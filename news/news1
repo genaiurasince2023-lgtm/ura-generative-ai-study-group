@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <!-- Google Tag Managerなど、共通のhead要素をここに -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HPを立ち上げました - お知らせ | 生成AIとURA業務 勉強会</title>
+    <link rel="stylesheet" href="../style.css"> <!-- 階層が深くなるのでパスを修正 -->
+</head>
+<body>
+    <header>
+        <!-- index.html と同じヘッダーをここにコピー＆ペースト -->
+        <a href="../index.html" class="logo-container">
+            <img src="../images/Logo.png" alt="生成AIとURA業務 勉強会 ロゴ">
+            <span class="logo-text">「生成AIとURA業務」勉強会</span>
+        </a>
+        <div class="header-right">
+            <nav>
+                <ul>
+                    <li><a href="../index.html#news">お知らせ</a></li>
+                    <li><a href="../index.html#reports">活動報告</a></li>
+                    <li><a href="../index.html#history">歴史</a></li>
+                    <li><a href="../members.html">メンバー</a></li>
+                    <li><a href="../index.html#contact">問い合わせ</a></li>
+                </ul>
+            </nav>
+            <div class="lang-switcher">
+                <a href="../index.html" class="active">日本語</a> / <a href="../index-en.html">English</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section>
+            <h2>HPを立ち上げました</h2>
+            <div class="meta-info">
+                <span class="author">執筆: 渡邉</span>
+                <span class="date">2025年10月17日</span>
+            </div>
+            <p>RA協議会 第11回年次大会＠熊本　X-1セッション開催に向けて、公開勉強会や活動について告知するためのHPを立ち上げました。</p>
+            <p>このウェブサイトは、私たちの活動を広く知っていただくための情報発信拠点として機能します。今後、活動報告やイベント告知などを随時更新していく予定です。</p>
+            <p>ウェブサイトの構築には、生成AIを活用したコーディングを取り入れています。これにより、管理コストを抑えつつ、迅速な情報更新を目指します。</p>
+            <br>
+            <a href="../index.html#news">＜ お知らせ一覧に戻る</a>
+        </section>
+    </main>
+    
+    <footer>
+        <!-- index.html と同じフッターをここにコピー＆ペースト -->
+        <p>&copy; RA協議会スキルプログラム専門委員会公認勉強会 2025 生成AIとURA業務</p>
+    </footer>
+</body>
+</html>
