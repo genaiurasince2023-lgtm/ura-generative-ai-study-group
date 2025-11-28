@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <!-- Google Tag Managerなど、共通のhead要素をここに -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>12/12 第2回公開勉強会のお知らせ - お知らせ | 生成AIとURA業務 勉強会</title>
+    <link rel="stylesheet" href="../style.css"> <!-- 階層が深くなるのでパスを修正 -->
+</head>
+<body>
+    <header>
+        <!-- index.html と同じヘッダーをここにコピー＆ペースト -->
+        <a href="../index.html" class="logo-container">
+            <img src="../images/Logo.png" alt="生成AIとURA業務 勉強会 ロゴ">
+            <span class="logo-text">「生成AIとURA業務」勉強会</span>
+        </a>
+        <div class="header-right">
+            <nav>
+                <ul>
+                    <li><a href="../index.html#news">お知らせ</a></li>
+                    <li><a href="../index.html#reports">活動報告</a></li>
+                    <li><a href="../index.html#history">歴史</a></li>
+                    <li><a href="../members.html">メンバー</a></li>
+                    <li><a href="../index.html#contact">問い合わせ</a></li>
+                </ul>
+            </nav>
+            <div class="lang-switcher">
+                <a href="../index.html" class="active">日本語</a> / <a href="../index-en.html">English</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section>
+            <h2>NEW! 12/12 第2回公開勉強会のお知らせ</h2>
+            <div class="meta-info">
+                <span class="author">執筆: 渡邉</span>
+                <span class="date">2025年11月28日</span>
+            </div>
+            <p>「研究推進のための生成AI活用講座」と題して第2回公開勉強会（講師：九大URA・安部）を開催します。</p>
+            <p>今回はダッシュ編です！</p>
+            <p>下記のアンケートにご回答いただき、途中の質問においてご連絡先を記載いただいた方には、公開勉強会の資料とオンラインのZoomリンクを送付いたします。</p>
+            <p>https://forms.gle/w7v3BEn18ibPsE6T7</p>
+            <p></p>
+            <p>皆様とお会いできるのを楽しみにしております。</p>
+            <img src="../images/poster/251212_第二回研究推進のための生成AI活用講座チラシ案.png" alt="第二回研究推進のための生成AI活用講座チラシ">
+            <br>
+            <a href="../index.html#news">＜ お知らせ一覧に戻る</a>
+        </section>
+    </main>
+    
+    <footer>
+        <!-- index.html と同じフッターをここにコピー＆ペースト -->
+        <p>&copy; RA協議会スキルプログラム専門委員会公認勉強会 2025 生成AIとURA業務</p>
+    </footer>
+</body>
+</html>
