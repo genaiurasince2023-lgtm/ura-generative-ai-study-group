@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://genaiurasince2023-lgtm.github.io/ura-generative-ai-study-group/sitemap.xml
+Sitemap: https://genaiurasince2023-lgtm.github.io/ura-generative-ai-study-group/sitemap.html
+``
