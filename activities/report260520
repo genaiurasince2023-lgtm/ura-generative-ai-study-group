@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>オンライン勉強会開催報告（2026年5月20日）｜活動報告 - 生成AIとURA業務 勉強会</title>
+    <meta name="description" content="2026年5月20日に開催した生成AI×研究支援勉強会の実施報告。参加者数や講演内容、議論のポイントをまとめています。">
+    ../style.css
+</head>
+<body>
+    <header>
+        ../index.html
+            ../images/Logo.png
+            <span class="logo-text">「生成AIとURA業務」勉強会</span>
+        </a>
+        <div class="header-right">
+            <nav>
+                <ul>
+                    <li>../index.html#newsお知らせ</a></li>
+                    <li>index.html#reports">活動報告</a></li>
+                    <li>../index.html#history歴史</a></li>
+                    <li>.html">メンバー</a></li>
+                    <li>#contact">問い合わせ</a></li>
+                </ul>
+            </nav>
+            <div class="lang-switcher">
+                .html" class="active">日本語</a> / ../index-en.html
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section>
+            <h1>5/20 オンライン勉強会 開催報告</h1>
+            <div class="meta-info">
+                <span class="author">執筆:M365 Copilot（神戸大・渡邉）</span>
+                <span class="date">2026年5月25日</span>
+            </div>
+
+            <p>
+                2026年5月20日（水）に、メタサイエンス研究会と共同で
+                「AI for RA：研究アドミニストレーション業務はどこまでAI化できるか？」をテーマとした
+                オンライン勉強会を開催しました。
+                メタサイエンス研究会のHPはこちらから　https://sites.google.com/view/metascience/home
+            </p>
+
+            <h2>開催概要</h2>
+            <ul>
+                <li><strong>日時：</strong>2026年5月20日（水）16:00〜17:30</li>
+                <li><strong>形式：</strong>オンライン（Zoom／YouTube配信）</li>
+                <li><strong>参加者：</strong>約130名（Zoom：約100名、YouTube：約30名）</li>
+            </ul>
+
+            <h2>内容概要</h2>
+            <p>
+                本勉強会では、研究アドミニストレーション（RA/URA）業務における生成AIの活用可能性について、
+                研究者・URA・大学職員を中心に幅広い参加者とともに議論を行いました。
+            </p>
+
+            <p>
+                AI研究者による最新動向の紹介に加え、URA実務の現場における具体的な活用事例や、
+                導入にあたっての課題などが共有され、実践的かつ示唆に富む内容となりました。
+            </p>
+
+            <h2>主な論点</h2>
+            <ul>
+                <li>研究支援業務における生成AIの適用領域</li>
+                <li>業務効率化と品質担保のバランス</li>
+                <li>AI活用に伴う倫理・ガバナンスの課題</li>
+                <li>各機関での導入事例と今後の展望</li>
+            </ul>
+
+            <h2>ライトニングトーク</h2>
+            <p>
+                勉強会メンバーによるライトニングトークも実施されました。
+                本勉強会からは、安部さんおよび渡邉が登壇し、
+                生成AIを活用した実務上の工夫や本勉強会について紹介を行いました。
+            </p>
+
+            <h2>まとめ</h2>
+            <p>
+                今回の勉強会では、生成AIの研究支援業務への応用可能性が、
+                具体的な事例とともに共有され、参加者間で活発な議論が行われました。
+                今後も実践事例の蓄積と共有を通じて、URA業務におけるAI活用の理解を深めていく予定です。
+		本勉強会に関するイベント等に関してご連絡先をご希望される方は、以下のフォームにご登録ください。
+		登録フォーム：https://forms.gle/7zcP1Erngg9r9Z2L9
+            </p>
+
+            <p>
+                引き続き、本勉強会では関連テーマのイベントを企画してまいります。
+                ご参加いただいた皆様、ありがとうございました。
+            </p>
+
+            <p>
+                ../index.html#reports＜ 活動報告一覧に戻る</a>
+            </p>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; RA協議会スキルプログラム専門委員会公認勉強会 2026 生成AIとURA業務</p>
+    </footer>
+</body>
+</html>
